@@ -2,7 +2,7 @@
 
 Built an end-to-end data analytics project on 9,800 US retail orders (2015-2018) to uncover sales trends, customer value, and regional performance. The workflow covers data cleaning, exploratory data analysis (EDA), customer segmentation, time-series forecasting, and business intelligence reporting.
 
-![Dashboard](dashboard.png)
+![Dashboard](Screenshot_2026-10-09_111452.png)
 
 ## Key Findings
 - Total sales: $2.26M across 4,922 orders and 793 customers (average order value $459.48).
